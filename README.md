@@ -1,6 +1,3 @@
-Sure, here’s an improved version of the README file for your coral bleaching prediction model:
-
----
 
 # Coral Bleaching Prediction Model
 
@@ -102,15 +99,3 @@ The Coral Bleaching Prediction Model is a machine learning tool designed to pred
 ## Contributing
 
 Feel free to contribute to this project by opening issues, submitting pull requests, or providing feedback. For more details on contributing, refer to the [Contributing Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For questions or support, please contact [your email address].
-
----
-
-Feel free to customize any sections according to your specific project needs!
